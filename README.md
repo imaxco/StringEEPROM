@@ -1,0 +1,2 @@
+# StringEEPROM
+Arduino library
